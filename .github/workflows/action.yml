@@ -6,7 +6,7 @@ on:
 
   # Schedule updates (each hour)
 
-  schedule: [{cron: "00*/6?**"}]
+  schedule: [{cron: "0 * * * *"}]
 
   # Lines below let you run workflow manually and on each commit
 
