@@ -52,4 +52,4 @@ jobs:
 
           plugin_screenshot_title: Weather
 
-          plugin_screenshot_url: https://weather.com/en-IN/weather/today/l/30.76,76.82?par=google
+          plugin_screenshot_url: https://weather.com/en-IN/weather/today/l/30.76,76.82
